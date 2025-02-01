@@ -30,7 +30,8 @@ sensor example check activation of sensors.
 
 ### UDP
 
-    cd {example install path}/MORAI-SensorExample/src/sensor_example
+    git clone https://github.com/parkie0517/MORAI-SensorExample.git
+    cd ./MORAI-SensorExample/src/sensor_example
     pip install -r requirements.txt
     python ./Morai_sensor_viewer.py
     
