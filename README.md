@@ -33,7 +33,7 @@ sensor example check activation of sensors.
     git clone https://github.com/parkie0517/MORAI-SensorExample.git
     cd ./MORAI-SensorExample/src/sensor_example
     pip install -r requirements.txt
-    python ./Morai_sensor_viewer.py
+    python ./Morai_sensor_viewer.py # mobaXterm에서 열기
     
 
     
