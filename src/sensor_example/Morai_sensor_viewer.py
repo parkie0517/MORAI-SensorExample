@@ -404,7 +404,7 @@ class main_window(QtWidgets.QDialog):
     
 if __name__ == "__main__":
 
-    freeze_support()    
+    freeze_support()    # 멀티 프로세싱 관련 
     app = QtWidgets.QApplication(sys.argv)
     screen = main_window()
     screen.show()

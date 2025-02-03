@@ -294,7 +294,7 @@ border-color: rgb(0, 0, 0);</string>
       <bool>true</bool>
      </property>
      <property name="plainText">
-      <string>127.0.0.1</string>
+      <string>143.248.50.159</string>
      </property>
     </widget>
     <widget class="QLabel" name="camera_networkType_label">
@@ -531,7 +531,7 @@ border-color: rgb(0, 0, 0);</string>
       <bool>true</bool>
      </property>
      <property name="plainText">
-      <string>127.0.0.1</string>
+      <string>143.248.50.159</string>
      </property>
     </widget>
     <widget class="QLabel" name="gps_networkType_label">
@@ -740,7 +740,7 @@ border-color: rgb(0, 0, 0);</string>
       <bool>true</bool>
      </property>
      <property name="plainText">
-      <string>127.0.0.1</string>
+      <string>143.248.50.159</string>
      </property>
     </widget>
     <widget class="QLabel" name="imu_networkType_label">
@@ -955,7 +955,7 @@ border-color: rgb(0, 0, 0);</string>
       <bool>true</bool>
      </property>
      <property name="plainText">
-      <string>127.0.0.1</string>
+      <string>143.248.50.159</string>
      </property>
     </widget>
     <widget class="QLabel" name="lidar_networkType_label">
